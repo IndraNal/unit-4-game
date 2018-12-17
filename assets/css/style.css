@@ -1,0 +1,57 @@
+body {
+  background-image: url(../images/pattern.png);
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  background-color: #cb6f34;
+  color: #fcede5;
+  padding: 15px;
+  margin: 10px;
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.message {
+  background-color: #fbe6cd;
+  color: #177906;
+  float: left;
+  font-size: 14px;
+  padding: 15px;
+  margin: 10px;
+  font-weight: bold;
+}
+
+.images {
+  padding: 5px;
+  margin: 5px;
+}
+.totalscore {
+  background-color: #1fa395;
+  padding: 5px;
+  margin: 10px;
+  height: 100px;
+  color: white;
+  font-size: 20px;
+}
+
+.totalScoreMessage {
+  padding: 5px;
+  margin: 10px;
+  background-color: #1fa395;
+  color: white;
+}
+
+.random {
+  background-color: #53c985;
+  color: black;
+  font-size: 20px;
+  height: 100px;
+}
+
+.scores {
+  background-color: #39fcf5;
+  color: white;
+  height: 100px;
+}
